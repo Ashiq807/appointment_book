@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "firstName": "ashiq",
+        "lastName": "o s",
+        "aptDate": "2024-01-30 10:15",
+        "aptNotes": "Hi, i am ashiq o s!"
+    },
+    {
+        "id": 1,
+        "firstName": "selma",
+        "lastName": "k h",
+        "aptDate": "2023-03-10 15:10",
+        "aptNotes": "Hi, i am selma k h!"
+    },
+    {
+        "id": 2,
+        "firstName": "sheeja",
+        "lastName": "k s",
+        "aptDate": "2022-05-03 07:30",
+        "aptNotes": "Hi, i am sheeja k s!"
+    }
+]
